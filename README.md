@@ -22,3 +22,4 @@ UHTD maintains a `parts inventory` , including oil filters, air filters, and bel
 
 ## Usage
 One important condition is to have MySql. I have created a working jar file, it's kept in `dist` folder. You can also check the video through this [Google Drive Link](https://drive.google.com/file/d/1KY7cMlGk6HS75GfEoSe0uG5Va5dRjP-Y/view).
+**NOTE** you might see in the video that every tym it is showing a popup for a click, that was done for testing purpose.  
